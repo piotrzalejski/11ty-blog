@@ -1,0 +1,29 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output directory
+/_site/
+
+# Ignore cache directory
+/.cache/
+
+# Ignore development server files
+/.eleventy.js
+/.eleventyignore
+
+# Ignore log files
+/*.log
+
+# Ignore environment-specific files
+.env
+.env.*
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+*.out.css
