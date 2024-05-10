@@ -3,6 +3,7 @@ node_modules/
 
 # Ignore build output directory
 /_site/
+/public
 
 # Ignore cache directory
 /.cache/
